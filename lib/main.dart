@@ -12,7 +12,7 @@ void main() async {
   //   messagingSenderId: "585865978292",
   //   projectId: "chatapp-ae3ed",
   // ));
-  runApp(const MyApp());
+  runApp(const MyApp()); 
 }
 
 class MyApp extends StatefulWidget {
